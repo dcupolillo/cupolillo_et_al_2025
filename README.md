@@ -4,6 +4,8 @@ Analysis code associated with the paper:
 
 *Dario Cupolillo, Noëlle Grosjean, Catherine Marneffe, Julio Viotti, Célia Reynaud, Séverine Deforges, Mario Carta, Christophe Mulle*
 
+It includes analysis code (functions, modules, notebooks) that process, analyze, and generate results from data.
+
 ## Citation
 
 If you use this code, please cite the associated publication:
