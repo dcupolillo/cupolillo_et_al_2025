@@ -1,6 +1,6 @@
 Analysis code associated with the paper:
 
-**[Early changes in the properties of CA3 engram cells explored with a novel viral tool](https://elifesciences.org/reviewed-preprints/105452)**
+**[Early changes in the properties of CA3 engram cells explored with a novel viral tool](https://elifesciences.org/articles/105452)**
 
 *Dario Cupolillo, Noëlle Grosjean, Catherine Marneffe, Julio Viotti, Célia Reynaud, Séverine Deforges, Mario Carta, Christophe Mulle*
 
